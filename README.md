@@ -1,6 +1,5 @@
 # THERMOSTAT
 -------
-------
 Makers Apprenticeship
 -------
 
