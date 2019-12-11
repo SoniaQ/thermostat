@@ -1,0 +1,12 @@
+
+.Low-usage {
+  color: green;
+}
+
+.Medium-usage {
+  color: black;
+}
+
+.High-usage {
+  color: red;
+}
